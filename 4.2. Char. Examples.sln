@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digitDefinition", "digitDefinition\digitDefinition.csproj", "{0E8F93E4-F6A0-4398-A499-1ACC5C55F60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "definingLetter", "definingLetter\definingLetter.csproj", "{3C17B353-0592-4366-A4C6-E1F493E0FC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lowercaseDefinition", "lowercaseDefinition\lowercaseDefinition.csproj", "{B3D4BF0A-708F-49FA-A7BE-0D29372CDE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "definitionUppercase", "definitionUppercase\definitionUppercase.csproj", "{4B00E8F1-A061-431E-B9E2-669FE0E9219F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertingToLowercase", "convertingToLowercase\convertingToLowercase.csproj", "{0D063195-8798-4965-8F8A-95466CF631E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertingToUppercase", "convertingToUppercase\convertingToUppercase.csproj", "{3FDE854D-B4E7-4AED-A015-73F621B28DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8F93E4-F6A0-4398-A499-1ACC5C55F60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8F93E4-F6A0-4398-A499-1ACC5C55F60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8F93E4-F6A0-4398-A499-1ACC5C55F60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8F93E4-F6A0-4398-A499-1ACC5C55F60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C17B353-0592-4366-A4C6-E1F493E0FC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C17B353-0592-4366-A4C6-E1F493E0FC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C17B353-0592-4366-A4C6-E1F493E0FC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C17B353-0592-4366-A4C6-E1F493E0FC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D4BF0A-708F-49FA-A7BE-0D29372CDE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D4BF0A-708F-49FA-A7BE-0D29372CDE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D4BF0A-708F-49FA-A7BE-0D29372CDE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D4BF0A-708F-49FA-A7BE-0D29372CDE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B00E8F1-A061-431E-B9E2-669FE0E9219F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B00E8F1-A061-431E-B9E2-669FE0E9219F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B00E8F1-A061-431E-B9E2-669FE0E9219F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B00E8F1-A061-431E-B9E2-669FE0E9219F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D063195-8798-4965-8F8A-95466CF631E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D063195-8798-4965-8F8A-95466CF631E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D063195-8798-4965-8F8A-95466CF631E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D063195-8798-4965-8F8A-95466CF631E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FDE854D-B4E7-4AED-A015-73F621B28DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDE854D-B4E7-4AED-A015-73F621B28DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDE854D-B4E7-4AED-A015-73F621B28DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDE854D-B4E7-4AED-A015-73F621B28DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8510FA9-16DE-44EA-81C4-464939672BFD}
+	EndGlobalSection
+EndGlobal
